@@ -1,7 +1,7 @@
 #include <iostream>
 #include <stack>
 using namespace std;
-
+//prirodni u binarni
 int main()
 {
     int n;
